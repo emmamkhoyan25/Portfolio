@@ -56,7 +56,7 @@
 }
 @media(max-width:500px){
     .skizb a{
-        display: none;
+        gap: 1px;
     }
    
 }
