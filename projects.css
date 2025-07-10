@@ -45,7 +45,7 @@ button{
 
 .mas1 {padding-top: 50px;
     padding-bottom: 50px;
-    margin-top: 10px;
+    margin-top: 45px;
     background-color: #FDC435;
     height: 100%;
 
@@ -62,8 +62,34 @@ button{
         text-align: center;
     }
 }
-.a{
+.a{text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     a{
-        text-decoration: ;
+        text-decoration: none;
+        color: #FDC435;
+        font-size: 50px;
+        font-weight: 400;
+        text-align: center;
+        border: 5px solid black;
+        border-radius: 10px;
+    }
+}
+.slaq{
+    .nkk{width:60px;
+   margin-left:500px;
+   transition: 0.3ms;
+    }
+    .nkk:hover{
+        margin-top: -15px;
+    }
+}
+.text{
+    h4{
+        padding-top: 20px;
+        font-size: 25px;
+        font-weight: 300;
+        color: black;
     }
 }

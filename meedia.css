@@ -1,7 +1,90 @@
-@media(max-width:490px){
-    .skizb a{
+@media(max-width:490px) {
+    .skizb a {
         display: flex;
         flex-direction: column;
     }
 
+}
+
+@media(max-width:1274px) {
+    .slaq .nkk {
+        margin-left: 490px;
+    }
+}
+
+@media(max-width:1200px) {
+    .slaq .nkk {
+        margin-left: 440px;
+    }
+}
+
+@media(max-width:970px) {
+    .slaq .nkk {
+        margin-left: 400px;
+    }
+}
+
+@media(max-width:930px) {
+    .slaq .nkk {
+        margin-left: 350px;
+    }
+}
+
+@media(max-width:820px) {
+    .slaq .nkk {
+        margin-left: 300px;
+    }
+}
+
+@media(max-width:750px) {
+    .slaq .nkk {
+        margin-left: 250px;
+    }
+}
+
+@media(max-width:630px) {
+    .slaq .nkk {
+        margin-left: 200px;
+    }
+
+    .text h4 {
+        font-size: 20px;
+    }
+}
+
+@media(max-width:530px) {
+    .slaq .nkk {
+        margin-left: 150px;
+    }
+
+    .text h4 {
+        font-size: 18px;
+    }
+
+    .mas1 h1 {
+        font-size: 40px;
+    }
+}
+
+@media(max-width:400px) {
+    .slaq .nkk {
+        margin-left: 50px;
+    }
+}
+
+@media(max-width:330px) {
+    .slaq .nkk {
+        margin-left: 50px;
+    }
+
+    .mas1 h1 {
+        font-size: 30px;
+    }
+
+}
+
+@media(max-width:470px) {
+    .text h4 {
+        font-size: 15px;
+    }
 }
