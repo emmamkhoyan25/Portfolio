@@ -1,0 +1,7 @@
+@media(max-width:490px){
+    .skizb a{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
