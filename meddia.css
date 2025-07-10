@@ -1,0 +1,16 @@
+@media(max-width:470px){
+    h1{
+        font-size: 30px;
+    }
+}
+@media(max-width:490px){
+    .skizb a{
+        display: flex;
+        flex-direction: column;
+    }
+
+}@media(max-width:1320px){
+    .container{
+        padding:  0 20px;
+    }
+}
